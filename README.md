@@ -15,7 +15,7 @@ Thanks a lot to [Rock88](https://github.com/rock88) and his [Moonlight-NX](https
   <img width="500" src="https://user-images.githubusercontent.com/9553519/135712676-aaa85bb7-9517-4a6d-bc35-070df092383c.jpg" />
   </p>
 </details>
-
+x
 # Installing
 1. Download latest Moonlight-Switch [release](https://github.com/XITRIX/Moonlight-Switch/releases).
 2. Put Moonlight-Switch.nro to sdcard:/switch/Moonlight-Switch;
