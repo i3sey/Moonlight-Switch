@@ -21,8 +21,7 @@ jobs:
     - name: Remove useless fonts
       run: rm -rf ./resources/font
       
-    - name: Update image
-      run: dkp-pacman -Syyu
+
         
     - name: Run build
       run: make -j8
